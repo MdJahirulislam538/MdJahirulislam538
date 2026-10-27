@@ -2,8 +2,13 @@
 <h3 align="center">UI/UX Designer & Frontend Developer | Building Scalable Web Experiences</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MdJahirulislam538&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Frontend-blue?style=flat&logo=react" alt="Focus" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-jahirul-islam-467488140" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mdjahirul.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -28,15 +33,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🌟 Featured Projects
+* **[Project Name 1](YOUR_PROJECT_REPO_LINK)**: Brief description of the project (e.g., built with Next.js & Tailwind CSS).
+* **[Project Name 2](YOUR_PROJECT_REPO_LINK)**: Brief description of the project (e.g., UI/UX landing page mockup).
 
 ---
 
-### 🌐 Connect with Design Tech BD
-- 💼 Professional Portfolio & Agency Projects
-- 📧 Get in touch for UI/UX & Web Development collaborations.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MdJahirulislam538&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdJahirulislam538&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
